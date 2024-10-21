@@ -45,6 +45,12 @@ h1 {
   font-size: 1.5rem;
 }
 
+#main_heading_id
+{
+  font-weight: light;
+  font-size: 2.5rem;
+}
+
 .Site {
   display: flex;
   min-height: 10vh;
