@@ -44,3 +44,24 @@ h1 {
   font-weight: bold;
   font-size: 1.5rem;
 }
+
+.Site {
+  display: flex;
+  min-height: 10vh;
+  flex-direction: column;
+}
+
+.Site-content {
+  flex: 1;
+}
+
+/* Stlyes to make the demo easier to see: */
+body { margin: 0; }
+header { background-color: #FD2D; }
+main { background-color: #DFDD; }
+footer { 
+    background-color: #049e8c;
+    height: 70pt;
+    text-align: center;
+    bottom: 0;
+}
