@@ -1,7 +1,7 @@
 # Kodeloftet_DAg4
 
 **Task description:**
-Work further in the project we have created now with semantic HTML and CSS location Flex. But in this task,  will focus on the user journey and analyze how the website's structure and layout can be improved to provide an optimal experience so that whoever will use your page gets the most out of the content. 
+Work further in the project we have created now with semantic HTML and CSS location Flex. But will focus on the user journey and analyze how the website's structure and layout can be improved to provide an optimal experience so that whoever will use your page gets the most out of the content. 
 
 **Consider the following questions:**
 
